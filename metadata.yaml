@@ -5,7 +5,7 @@ contributor:
     agent_name: Ratcliffe, S. K. (Samuel Kerkham)
     alias: Ratcliffe, Samuel Kerkham
     birthdate: 1868
-    deathdate: &id001 1958
+    deathdate: 1958
     gutenberg_agent_id: '31391'
     url: http://www.gutenberg.org/2009/agents/31391
 covers:
@@ -16,11 +16,13 @@ creator:
     agent_name: Tomlinson, H. M. (Henry Major)
     alias: Tomlinson, Henry Major
     birthdate: 1873
-    deathdate: *id001
+    deathdate: 1958
     gutenberg_agent_id: '5787'
     url: http://www.gutenberg.org/2009/agents/5787
     wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25523#Old-Junk
 gutenberg_issued: '2008-05-19'
 gutenberg_type: Text
 identifiers:
